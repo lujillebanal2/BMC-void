@@ -18,6 +18,7 @@ void main() {
   MobileApp app2 = MobileApp("Spotify", "Spotify AB", "v8.8");
   MobileApp app3 = MobileApp("Google Maps", "Google", "v11.10");
 
+
   app1.displayInfo();
   app2.displayInfo();
   app3.displayInfo();
